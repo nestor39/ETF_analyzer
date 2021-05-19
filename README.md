@@ -71,6 +71,20 @@ Save it
 
 Push play
 
+
+
+## Using Voila
+
+In order to deploy your Jupiter notebook via the Voilà library, you should type "voila <notebook_name>" in Git Bash,
+in this case "voila etf_analyzer.ipynb"
+
+![voila_etf_analyzer](https://user-images.githubusercontent.com/80844686/118749068-a65d0180-b811-11eb-842d-c89e3b64d400.jpg)
+
+After typing the sentence above, you are going to be able to see how Voilà works:
+
+![voila_plot_etf](https://user-images.githubusercontent.com/80844686/118749083-ae1ca600-b811-11eb-941a-7be052556901.jpg)
+
+
 ## Results
 
 This code is going to show you many superpower tools with interactive characteristics:
@@ -80,6 +94,13 @@ This code is going to show you many superpower tools with interactive characteri
 ![ETF_analyzer_results_1](https://user-images.githubusercontent.com/80844686/118076183-6fe13b80-b366-11eb-8390-21d9ba3bf513.jpg)
 
 ![ETF_analyzer_results_2](https://user-images.githubusercontent.com/80844686/118076192-72439580-b366-11eb-97e2-36b39ad8eb38.jpg)
+
+
+https://user-images.githubusercontent.com/80844686/118748336-8416b400-b810-11eb-9d85-7faf9309adcf.mp4
+
+
+https://user-images.githubusercontent.com/80844686/118748327-811bc380-b810-11eb-9ff4-53920acace35.mp4
+
 
 
 
